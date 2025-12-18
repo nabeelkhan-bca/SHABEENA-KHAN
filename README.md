@@ -1,42 +1,51 @@
-# SHABEENA-KHAN
-🎓 **Student &amp; Aspiring Developer** - 💻 Learning modern technologies step by step
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Amiri&size=30&duration=4000&pause=1000&color=2F8F6F&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum+🌙;I'm+Shabeena+Khan;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3500&pause=800&color=FF6F61&center=true&vCenter=true&width=650&lines=Assalamu+Alaikum+🌙;I'm+Shabeena+Khan;A+Curious+Computer+Science+Student;Learning+Today+to+Build+Tomorrow" />
 </h1>
 
 <p align="center">
-  <!-- Animation -->
-  <img src="https://i.imgur.com/Y6XJ9pZ.gif" width="280" alt="Islamic Animation"/>
+  <img src="study.gif" width="300" alt="Student Animation"/>
 </p>
 
 <p align="center">
-  <!-- Static Background Image -->
-  <img src="https://images.unsplash.com/photo-1584555684040-bad07f46a21b" width="320" alt="Islamic Student Background"/>
+  <img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=900&q=80" width="420" alt="Student Colorful Background"/>
 </p>
 
 ---
 
-## 🎓 About Me
-- 🌸 Student | Learning step by step  
-- 📚 Interested in Computer Science  
-- 🌙 Balancing Deen & Dunya  
-- ✨ Growth with patience
+## 🌸 About Me
+I’m a **Computer Science student** who believes that  
+learning is a journey, not a race 🌱  
+
+- 🎓 Focused on **building strong basics**
+- 📚 Love learning new concepts step by step
+- 🌈 Inspired by creativity, technology & growth
+- 🌙 Trying to balance **Deen, Duniya & Dreams**
 
 ---
 
-## 📖 Ayah of Reflection
-> **“My success is only by Allah.”**  
-> *(Qur'an 11:88)*
+## ✨ Personal Tagline
+> **“I may be a student today, but I’m preparing to become something meaningful tomorrow.”**
 
 ---
 
-## 📘 Currently Learning
-- Programming basics  
-- Web fundamentals  
-- Git & GitHub  
+## 📖 Ayah That Inspires Me
+> **“And whoever puts their trust in Allah, He is sufficient for them.”**  
+> *(Qur’an 65:3)*
+
+---
+
+## 📘 Currently Exploring
+- Programming fundamentals  
+- Problem-solving mindset  
+- Web & technology basics  
+- Git & GitHub for students  
 
 ---
 
 <p align="center">
-  🌿 الحمد لله for the journey of learning
+  <img src="https://komarev.com/ghpvc/?username=ShabeenaKhan&label=Profile%20Views&color=ff69b4&style=flat" />
+</p>
+
+<p align="center">
+  🌈 Learning with patience • 🌙 Trusting Allah • 📚 Growing every day
 </p>
