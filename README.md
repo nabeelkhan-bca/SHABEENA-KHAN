@@ -284,5 +284,15 @@ Full-stack applications
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=008000&center=true&vCenter=true&random=false&width=647&height=60&lines=Thank+You+for+visiting+!;Hope+to+see+you+again+%F0%9F%98%81;Dont+forget+to+follow!" alt="Typing SVG" /></a></h3>
 </div>
+<a href="https://github.com/nabeelkhan-bca">
+  <img src="https://img.shields.io/badge/⭐_Star_My_Repos-yellow?style=for-the-badge" alt="Star Repos"/>
+</a>
+<a href="https://github.com/nabeelkhan-bca">
+  <img src="https://img.shields.io/badge/🤝_Follow_Me-blue?style=for-the-badge" alt="Follow"/>
+</a>
+<a href="https://github.com/nabeelkhan-bca">
+  <img src="https://img.shields.io/badge/☕_Buy_Me_Coffee-orange?style=for-the-badge" alt="Support"/>
+</a>
+
 <p>Made with ❤️ and ☕ by <b>Shabeena Khan</b></p>
 <p><sub>Last Updated: December 2025</sub></p>
